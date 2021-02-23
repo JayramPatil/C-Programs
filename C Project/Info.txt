@@ -1,0 +1,27 @@
+
+	
+	Login Information For ADMIN :-
+			
+			USERNAME :- Admin
+			PASSWORD :- Admin123
+
+	Login Information For GUEST :-
+			
+			USERNAME :- Fork
+			PASSWORD :- Fork123
+
+	
+	DEVELOPER DETAILS :-
+	+========================================================+
+	|						         |
+	|	Name          :- JAYRAM SADASHIV PATIL	         |
+	|						         |
+	|	Qualification :- BSC In Computer Science(BCS)    |
+	|						         |
+	|	Mobile Number :- 7972906088		         |
+	|						         |
+	|	Email ID      :- Jayram1234patil@gmail.com       |
+	|							 |
+        | 	College       :- SGM College, Karad              |
+	|						         |
+	+========================================================+
